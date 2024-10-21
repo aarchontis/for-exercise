@@ -1,2 +1,2 @@
 # for-exercise
-For course 
+Exercise for course Mental Wealth 1 
